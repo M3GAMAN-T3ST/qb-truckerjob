@@ -2,7 +2,7 @@ Config = {}
 
 Config.UseTarget = GetConvar('UseTarget', 'false') == 'true'
 
-Config.TruckerJobTruckDeposit = 125
+Config.TruckerJobTruckDeposit = 1200
 Config.TruckerJobFixedLocation = false
 Config.TruckerJobMaxDrops = 20 -- amount of locations before being forced to return to station to reload
 Config.TruckerJobDropPrice = 500
